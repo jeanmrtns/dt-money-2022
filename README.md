@@ -43,3 +43,6 @@ Tecnologias utilizadas:
 - JSON server (desenvolvimento)
 - Eslint
 - Context selector
+- Phosphor-react (icones)
+- Radix UI (componentes acessíveis)
+- React hook form (validação de formulários)
